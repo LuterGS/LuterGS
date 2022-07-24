@@ -36,3 +36,7 @@
 
 ### Contact
 - email : [koo04034@gmail.com](mailto:koo04034@gmail.com)
+
+### Others
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuterGS&count_private=true)
+- 매일 배운 것을 **[TIL](https://github.com/LuterGS/TIL/issues)** - 에 기록 중입니다!
