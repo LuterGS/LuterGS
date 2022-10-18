@@ -10,7 +10,7 @@
 - etc (infra) : ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Biography
-- `(2017.03 ~ 2022.08)` 건국대학교 컴퓨터공학과 졸업예정
+- `(2017.03 ~ 2022.08)` 건국대학교 컴퓨터공학과 공학사 수료
 - `(2018.07 ~ 2020.02)` 육군 현역 (병역필)
 - `(2021.08 ~ current)` ENlighten 데이터 엔지니어로 근무
 
@@ -24,6 +24,7 @@
   - `(2022.03 ~ 2022.04)` Confluent Kafka PaaS 로 발전소 이상탐지 파이프라인 구축
   - `(2022.05 ~ 2022.06)` custom CDC pipeline (GCP Datastream + Python) 구축 (새로운 데이터 파이프라인 구성)
   - `(2022.06 ~ 2022.07)` 이상탐지 파이프라인을 Kotlin Spring 으로 리팩터링
+  - `(2022.08 ~ current)` 데이터 소스 이원화 (MySQL, Bigquery)
 
 ### Awards History
 - `(2020.09)` 2020 서울시 ICT 공모전 우수상 
@@ -39,4 +40,3 @@
 
 ### Others
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuterGS&count_private=true)
-- 매일 배운 것을 **[TIL](https://github.com/LuterGS/TIL/issues)** - 에 기록 중입니다!
