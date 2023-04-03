@@ -13,7 +13,7 @@
 - `(2017.03 ~ 2022.08)` 건국대학교 컴퓨터공학과 공학사 수료
 - `(2018.07 ~ 2020.02)` 육군 현역 (병역필)
 - `(2021.08 ~ 2022.12)` ENlighten 데이터 엔지니어로 근무
-- `(2023.01 ~ current)` KT 소프트웨어 개발자로 입사
+- `(2023.01 ~ current)` KT 백엔드 개발자로 입사
 
 
 ### Working Experience
@@ -26,7 +26,8 @@
   - `(2022.05 ~ 2022.06)` custom CDC pipeline (GCP Datastream + Python) 구축 (새로운 데이터 파이프라인 구성)
   - `(2022.06 ~ 2022.07)` 이상탐지 파이프라인을 Kotlin Spring 으로 리팩터링
   - `(2022.08 ~ 2022.12)` 데이터 소스 이원화 (MySQL, Bigquery) 및 데이터 마이그레이션
-- 소프트웨어 개발자 ([KT](https://kt.com)) : 2023.01 ~
+- 백엔드 개발자 ([KT](https://kt.com)) : 2023.01 ~
+  - `(2023.02 ~ )` 지니에어 데이터 파이프라인 새 프로젝트 개발 진행 중 (devOps - CI/CD with Jenkins/Nexus, Container-based env with k8s, Backend - SpringBoot, Kafka and Java)
 
 ### Awards History
 - `(2020.09)` 2020 서울시 ICT 공모전 우수상 
