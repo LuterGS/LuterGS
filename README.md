@@ -4,16 +4,18 @@
 
 
 ### Tech specs
-- Language : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- Framework : ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+- Language : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- Framework : ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - Platform : ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Beam](https://user-images.githubusercontent.com/19836058/198917887-f8cdb54a-e174-4fb9-9033-a32c7c8cd8ed.svg)
-- etc (infra) : ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- Infra : ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- etc
+  - Observability : ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) -> Grafana based [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/) stack (Grafana, Prometheus, Grafana Loki, Grafana Tempo, OpenTelemetry SDK)
 
 ### Biography
 - `(2017.03 ~ 2022.08)` 건국대학교 컴퓨터공학과 공학사 수료
 - `(2018.07 ~ 2020.02)` 육군 현역 (병역필)
 - `(2021.08 ~ 2022.12)` ENlighten 데이터 엔지니어로 근무
-- `(2023.01 ~ current)` KT 백엔드 개발자로 입사
+- `(2023.01 ~ current)` KT 환경플랫폼 (지니에어, AirMapKorea 등) 백엔드, 데이터 엔지니어로 근무 중
 
 
 ### Working Experience
@@ -27,7 +29,7 @@
   - `(2022.06 ~ 2022.07)` 이상탐지 파이프라인을 Kotlin Spring 으로 리팩터링
   - `(2022.08 ~ 2022.12)` 데이터 소스 이원화 (MySQL, Bigquery) 및 데이터 마이그레이션
 - 백엔드 개발자 ([KT](https://kt.com)) : 2023.01 ~
-  - `(2023.02 ~ )` 지니에어 데이터 파이프라인 새 프로젝트 개발 진행 중 (devOps - CI/CD with Jenkins/Nexus, Container-based env with k8s, Backend - SpringBoot, Kafka and Java)
+  - `(2023.02 ~ 2023.07)` KT 환경플랫폼 데이터 파이프라인 v2 개발 리드 ( Kafka-based MSA with Java SpringBoot / Container-based develop env with k8s, containerd / Observability by Grafana stack / CI/CD with Jenkins/Nexus )
 
 ### Awards History
 - `(2020.09)` 2020 서울시 ICT 공모전 우수상 
@@ -42,4 +44,6 @@
 - email : [koo04034@gmail.com](mailto:koo04034@gmail.com)
 
 ### Others
+currently migrate this page to [lutergs.dev](https://lutergs.dev)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuterGS&count_private=true)
